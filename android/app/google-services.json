@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029290183774",
+    "project_id": "swiftaid-33d30",
+    "storage_bucket": "swiftaid-33d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029290183774:android:9a80955717e297019538cf",
+        "android_client_info": {
+          "package_name": "com.joel.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029290183774-fuliu9efitllij2drdok5s99pi2n8bfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIxDATXAjQVumyiJ1OBYVL8jqWsBsXd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029290183774-fuliu9efitllij2drdok5s99pi2n8bfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
